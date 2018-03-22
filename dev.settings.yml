@@ -1,0 +1,3 @@
+settings:
+  profile: default
+  auth0_domain: your_auth0_domain
