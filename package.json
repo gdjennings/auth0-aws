@@ -1,0 +1,18 @@
+{
+  "name": "api_get_credentials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth0": "^2.5.0",
+    "bluebird": "^3.4.6",
+    "dotenv": "^2.0.0",
+    "jsonwebtoken": "^7.4.1",
+    "jwks-rsa": "^1.1.1"
+  }
+}
